@@ -1,8 +1,8 @@
 import streamlit
 
-streamlit.title('welcome to my first app')
+streamlit.title('welcome to my first app 🥣')
 
-streamlit.header('Hello Header')
-streamlit.text('welcome')
-streamlit.text('to')
-streamlit.text('page!')
+streamlit.header('Hello 🥑')
+streamlit.text('welcome 🐔')
+streamlit.text('to My ')
+streamlit.text('page! 🍞')
